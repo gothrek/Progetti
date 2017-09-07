@@ -1,0 +1,12 @@
+D:\Progetti\VB\GotScraper\GotScraper\bin\Debug\GotScraper.exe
+D:\Progetti\VB\GotScraper\GotScraper\bin\Debug\GotScraper.pdb
+D:\Progetti\VB\GotScraper\GotScraper\bin\Debug\GotScraper.xml
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.vbprojResolveAssemblyReference.cache
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.Form1.resources
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.Resources.resources
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.vbproj.GenerateResource.Cache
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.vbproj.CoreCompileInputs.cache
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.exe
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.xml
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.pdb
+D:\Progetti\VB\GotScraper\GotScraper\obj\Debug\GotScraper.SplashScreen1.resources
